@@ -1,0 +1,6 @@
+numpy>=1.26
+sympy>=1.12
+matplotlib>=3.7
+plotly>=5.18
+scipy>=1.11
+scikit-image>=0.21

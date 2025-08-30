@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cy"
+version = "0.1.0"
+description = "Fermat quintic slice visualizations (points, surfaces, controls, iso)"
+requires-python = ">=3.9"
+dependencies = [
+  "numpy>=1.26",
+  "sympy>=1.12",
+  "matplotlib>=3.7",
+  "plotly>=5.18",
+  "scipy>=1.11",
+  "scikit-image>=0.21",
+]
+
+[tool.setuptools]
+packages = ["cy"]
