@@ -181,7 +181,10 @@ wheelhouse/
 ---
 
 ## License
-Choose a license (e.g., MIT) and add a `LICENSE` file.
+  Copyright (c) 2025 Kyle Harris
+
+ This software is released under the MIT License.
+ https://opensource.org/licenses/MIT
 
 ---
 
